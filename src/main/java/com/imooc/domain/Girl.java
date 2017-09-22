@@ -21,6 +21,8 @@ public class Girl
 
     private String tel;
 
+    private String sex;
+
     public Girl() {
 
 
